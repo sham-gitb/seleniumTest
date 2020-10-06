@@ -1,2 +1,18 @@
 # Project exclude paths
 /.gradle/
+# ======================
+# JAVA
+# ======================
+*.class
+*.jar
+*.war
+*.ear
+#=======================
+# GRADLE
+#=======================
+build/
+gradle
+gradlew
+.gradle/
+
+
