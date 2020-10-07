@@ -14,5 +14,6 @@ build/
 gradle
 gradlew
 .gradle/
+.idea/
 
 
