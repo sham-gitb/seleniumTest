@@ -10,3 +10,4 @@ Feature: verify that the search stay
     Then verify that the following appear in browser
       Examples: |Location|
                 |Miami   |
+  Scenario:
